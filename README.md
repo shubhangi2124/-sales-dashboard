@@ -5,12 +5,6 @@ Steven, the Sales Manager, requested to improve their internet sales reports by 
 
 This dashboard provides interactive filtering and enables deeper insights into sales performance over a 3-year window (2019–2021).
 
-## 🔗 Access the Dashboard File
-🗂️ Download the Power BI Dashboard:  
-👉 [Click Here to Access](https://abes365-my.sharepoint.com/:u:/g/personal/shubhangi_22b0401017_abes_ac_in/ESCgekVO-1tErnwenryoCbYBihm2C07I7T2x2kgyBRrNjQ?e=TLErPQ)
-
-> *Note: This file is hosted on SharePoint and may take a moment to load.*
-
 ## 🧠 Objectives
 - Replace static sales reports with dynamic dashboards
 - Provide filtering by **Salesperson**, **Product**, and **Client**
